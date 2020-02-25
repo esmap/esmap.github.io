@@ -1,0 +1,149 @@
+{
+    "Name": "Modern Energy Cooking Services",
+    "Description": "Evidence map of studies on modern energy cooking systems and related initiatives",
+    "Publication": "Unpublished",
+    "Logos": [
+        { "File": "ESMAP", 
+          "Name": "ESMAP", 
+          "ExternalUrl": "" },
+        { "File": "MECS", 
+          "Name": "MECS", 
+          "ExternalUrl": "" }],
+    "Projection": "standard",
+    "DisplayMode": "cluster",
+    "DisplayUnit": "Sector",
+    "ClusterDistance": 500, 
+    "MapCentre": [0, 25],
+    "MapZoomLevel": 1,
+    "MaxPieSize": 35,
+    "BaseLayers": [{
+        "File": "world50",
+        "Name": "Land",
+        "Description": "Country boundaries at 50km resolution."
+    }],
+    "Fields": [{
+            "Column": "Country",
+            "Name": "Country",
+            "DataType": "string",
+            "Description": "Country of each study"
+        },
+        {
+        "Column": "Sector",
+        "Name": "Sector",
+        "DataType": "string",
+        "Description": "Sector of each study"
+         },
+        {
+            "Column": "Year",
+            "Name": "Year of Publication",
+            "DataType": "float",
+            "Unit": "",
+            "Description": "Year of publication"
+        },
+        {
+        "Column": "Sample Size (n)",
+        "Name": "Study Sample Size",
+        "DataType": "float",
+        "Unit": "",
+        "Description": "What was the sample size of the study? (0 if NR or NA)"
+           },
+           {
+           "Column": "Study Start Date",
+           "Name": "Study Start Date",
+           "DataType": "float",
+           "Unit": "",
+           "Description": "Year of the study start"
+            },
+            {
+                "Column": "Study Duration (Years)",
+                "Name": "Study Duration",
+                "DataType": "float",
+                "Unit": "Years",
+                "Description": "Length of study in years"
+                 },
+              {
+                "Column": "Start Date of Intervention/Program",
+                 "Name": "Start Date of Intervention/Program",
+                 "DataType": "float",
+                 "Unit": "",
+                 "Description": "Year the intervention or program began"
+                },
+                {
+                "Column": "Start Date of Intervention/Program",
+                "Name": "Start Date of Intervention/Program",
+                "DataType": "float",
+                "Unit": "",
+                "Description": "Year the intervention or program began"
+               },
+                 {
+                "Column": "Synthesis Paper",
+                "Name": "Synthesis Paper",
+                "DataType": "string",
+                "Description": "Is the paper a synthesis of multiple studies?"
+              },               
+              {
+            "Column": "Rural/Urban/Peri-Urban",
+            "Name": "Setting of study",
+            "DataType": "string",
+            "Description": "Setting of study"
+        },
+        {"Column": "Missing Data",
+        "Name": "Missing Data",
+        "DataType": "string",
+        "Description": "Are there missing data in the study?"
+        },
+        {"Column": "If Yes, Is There Accountability?",
+            "Name": "Missing Data Accountability",
+            "DataType": "string",
+            "Description": "Are the missing data (if any) accouted for?"
+         },
+        {
+            "Column": "Is Secondary Data Used?",
+            "Name": "Secondary Data",
+            "DataType": "string",
+            "Description": "Does the study use secondary data?"
+        },
+        {"Column": "Independently Measured Outcomes",
+            "Name": "Independently Measured Outcomes",
+            "DataType": "string",
+            "Description": "What outcomes (if any) are measured in the study? Social/Economic/Environmental"
+        },        
+        {"Column": "Drivers/Barriers Data Present?",
+            "Name": "Drivers/Barriers Data Present?",
+            "DataType": "string",
+            "Description": "Are key drivers and barriers discussed in the study?"
+        }
+    ],
+    "DataPalettes": [{
+        "Column": "Sector",
+        "Palette": [{
+                "Name": "Cookstoves",
+                "Hex": "68171A"
+            },
+            {
+                "Name": "Energy - Electrification",
+                "Hex": "202D23"
+            },
+            {
+                "Name": "Energy - Fuel Transition",
+                "Hex": "ff847c"
+            },            
+            {
+                "Name": "Energy - Other",
+                "Hex": "e84a5f"
+            },
+            {
+                "Name": "Other",
+                "Hex": "2a363b"
+            },
+            {
+                "Name": "Sanitation",
+                "Hex": "befee8"
+            },
+            {
+                "Name": "Water",
+                "Hex": "fdfc02"
+            }
+        ]
+    }]
+}
