@@ -1,7 +1,8 @@
 {
     "Name": "Modern Energy Cooking Services",
     "Description": "Evidence map of studies on modern energy cooking systems and related initiatives",
-    "Publication": "Unpublished",
+    "PublicationReference": "For help using the tool follow link",
+    "PublicationUrl": "https://github.com/esmap/evidencemap/blob/master/Mapping%20Tool%20User%20Guide.pdf",
     "Logos": [
         { "File": "ESMAP", 
           "Name": "ESMAP", 
