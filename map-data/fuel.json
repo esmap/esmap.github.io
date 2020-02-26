@@ -118,31 +118,31 @@
         "Column": "Sector",
         "Palette": [{
                 "Name": "Cookstoves",
-                "Hex": "68171A"
+                "Hex": "ff0000"
             },
             {
                 "Name": "Energy - Electrification",
-                "Hex": "202D23"
+                "Hex": "ffa500"
             },
             {
                 "Name": "Energy - Fuel Transition",
-                "Hex": "ff847c"
+                "Hex": "ffff00"
             },            
             {
                 "Name": "Energy - Other",
-                "Hex": "e84a5f"
+                "Hex": "008000"
             },
             {
                 "Name": "Other",
-                "Hex": "2a363b"
+                "Hex": "0000ff"
             },
             {
                 "Name": "Sanitation",
-                "Hex": "befee8"
+                "Hex": "4b0082"
             },
             {
                 "Name": "Water",
-                "Hex": "fdfc02"
+                "Hex": "ee82ee"
             }
         ]
     }]
