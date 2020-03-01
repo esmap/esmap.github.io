@@ -12,7 +12,7 @@
           "ExternalUrl": "" }],
     "Projection": "standard",
     "DisplayMode": "cluster",
-    "DisplayUnit": "Sector",
+    "DisplayUnit": "Program Focus",
     "ClusterDistance": 500, 
     "MapCentre": [0, 25],
     "MapZoomLevel": 1,
@@ -29,10 +29,10 @@
             "Description": "Country of each study"
         },
         {
-        "Column": "Sector",
-        "Name": "Sector",
+        "Column": "Program Focus",
+        "Name": "Program Focus",
         "DataType": "string",
-        "Description": "Sector of each study"
+        "Description": "Focus of program in each study"
          },
         {
             "Column": "Year",
@@ -70,11 +70,11 @@
                  "Description": "Year the intervention or program began"
                 },
                 {
-                "Column": "Start Date of Intervention/Program",
-                "Name": "Start Date of Intervention/Program",
+                "Column": "Years Since Intervention (Sustainability Measure)",
+                "Name": "Years Since Intervention (Sustainability Measure)",
                 "DataType": "float",
                 "Unit": "",
-                "Description": "Year the intervention or program began"
+                "Description": "Years since the intervention or program began."
                },
                  {
                 "Column": "Synthesis Paper",
