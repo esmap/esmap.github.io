@@ -116,7 +116,7 @@
         }
     ],
     "DataPalettes": [{
-        "Column": "Sector",
+        "Column": "Program Focus",
         "Palette": [{
                 "Name": "Cookstoves",
                 "Hex": "ff0000"
