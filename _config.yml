@@ -7,8 +7,8 @@
 title: ESMAP Clean Cooking Evidence Map 
 description: > # this means to ignore newlines until "baseurl:"
   A map of the evidence base of drivers and barriers towards clean cooking
-baseurl: "/evidencemaps" # the subpath of your site, e.g. /blog
-url: "https://oxsrev.github.io" # the base hostname & protocol for your site
+baseurl: "/evidencemap" # the subpath of your site, e.g. /blog
+url: "https://esmap.github.io" # the base hostname & protocol for your site
 ownername: "Energy Sector Management Assistance Program"
 ownerurl: "https://www.esmap.org/"
 
