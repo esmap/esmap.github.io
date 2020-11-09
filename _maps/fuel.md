@@ -1,3 +1,8 @@
+---
+name: "Modern Energy Cooking Services"
+mapname: fuel
+layout: map
+---
 <!DOCTYPE html>
 <meta charset="utf-8">
 <title>Redirecting to https://oxsrev.github.io/evidencemaps/fuel/</title>
