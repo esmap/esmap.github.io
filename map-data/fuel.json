@@ -10,7 +10,7 @@
     part of the final report. In addition, a csv file contains publications rejected at either title and abstract or full-text screening that did not
     meet the review criteria, as well as others that met the criteria but could not be found.",
     "PublicationReference": "Supporting files (Report, Protocol, Included Articles CSV, Excluded Artitlces CSV, and Map User Guide) can be found here.",
-    "PublicationUrl": "",
+    "PublicationUrl": "https://github.com/esmap/evidencemap/tree/master/Report%20Files",
     "Logos": [
         { "File": "ESMAP", 
           "Name": "ESMAP", 
