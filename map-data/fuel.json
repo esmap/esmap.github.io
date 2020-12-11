@@ -1,14 +1,6 @@
 {
     "Name": "Evidence Map of Factors That Drive the Transition to Modern Energy Cooking Services",
-    "Description": "The mapping tool is an open-access, visual representation of datasheets created for all studies included
-    in the systematic evidence evaluation of the transition drivers and barriers to modern energy cooking
-    services (MECS). Studies are georeferenced by study location area on the interactive map. The studies
-    are color-coded by sector of interest, and users can apply filters (for example, by topic, time period,
-    study duration, or design) to explore subsets of interest from the evidence base. For each selected
-    study, this procedure can be used to view datasheets, which include full bibliographic details and data
-    extracted according to an a priori, peer-reviewed protocol, which forms
-    part of the final report. In addition, a csv file contains publications rejected at either title and abstract or full-text screening that did not
-    meet the review criteria, as well as others that met the criteria but could not be found.",
+    "Description": "The mapping tool is an open-access, visual representation of datasheets created for all studies included in the systematic evidence evaluation of the transition drivers and barriers to modern energy cooking services (MECS). Studies are georeferenced by study location area on the interactive map. The studies are color-coded by sector of interest, and users can apply filters (for example, by topic, time period, study duration, or design) to explore subsets of interest from the evidence base. For each selected study, this procedure can be used to view datasheets, which include full bibliographic details and data extracted according to an a priori, peer-reviewed protocol, which forms part of the final report. In addition, a csv file contains publications rejected at either title and abstract or full-text screening that did not meet the review criteria, as well as others that met the criteria but could not be found.",
     "PublicationReference": "Supporting files (Report, Protocol, Included Articles CSV, Excluded Artitlces CSV, and Map User Guide) can be found here.",
     "PublicationUrl": "https://github.com/esmap/evidencemap/tree/master/Report%20Files",
     "Logos": [
