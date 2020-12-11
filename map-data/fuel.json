@@ -1,8 +1,16 @@
 {
     "Name": "Evidence Map of Factors That Drive the Transition to Modern Energy Cooking Services",
-    "Description": "Evidence map of studies on modern energy cooking systems and related initiatives. Systematic evidence evaluation done by Dr Gillian Petrokofsky, Dr William J. Harvey, Leo Petrokofsky and Dr Caroline Ochieng",
-    "PublicationReference": "For help using the tool follow link",
-    "PublicationUrl": "https://github.com/esmap/evidencemap/blob/master/Mapping%20Tool%20User%20Guide.pdf",
+    "Description": "The mapping tool is an open-access, visual representation of datasheets created for all studies included
+    in the systematic evidence evaluation of the transition drivers and barriers to modern energy cooking
+    services (MECS). Studies are georeferenced by study location area on the interactive map. The studies
+    are color-coded by sector of interest, and users can apply filters (for example, by topic, time period,
+    study duration, or design) to explore subsets of interest from the evidence base. For each selected
+    study, this procedure can be used to view datasheets, which include full bibliographic details and data
+    extracted according to an a priori, peer-reviewed protocol, which forms
+    part of the final report. In addition, a csv file contains publications rejected at either title and abstract or full-text screening that did not
+    meet the review criteria, as well as others that met the criteria but could not be found.",
+    "PublicationReference": "Supporting files (Report, Protocol, Included Articles CSV, Excluded Artitlces CSV, and Map User Guide) can be found here.",
+    "PublicationUrl": "",
     "Logos": [
         { "File": "ESMAP", 
           "Name": "ESMAP", 
